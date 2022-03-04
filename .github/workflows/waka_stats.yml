@@ -1,0 +1,20 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Waka READMe
+
+# Controls when the workflow will run
+on:
+  # 12 am IST
+  - cron: '30 18 * * *'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: jolynt24/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WT }}
+          GH_TOKEN: ${{ secrets.GH }}
