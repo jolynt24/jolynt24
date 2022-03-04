@@ -1,16 +1,17 @@
-### Hi there 👋
+<img src="banner.png" alt="Banner" width="80%">
 
-<!--
-**jolynt24/jolynt24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy solving puzzles and learning something new. 
 
-Here are some ideas to get you started:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Currently...
+
+- I am  working on automating my bank statement analysis
+- I am learning more about Salesforce Business Analyst role and on developing my productivity/habit blog
+
+---
+
+- Fun fact: I cannot pronounce "three cheese twists"
