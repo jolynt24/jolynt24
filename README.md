@@ -23,3 +23,7 @@ YAML       0 secs          ░░░░░░░░░░░░░░░░░�
 ---
 
 - Fun fact: I cannot pronounce "three cheese twists"
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jolynt24&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
