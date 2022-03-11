@@ -1,5 +1,4 @@
-<img src="banner.png" alt="Banner" width="80%">
-
+Hello! <img src="https://i.pinimg.com/originals/8b/ea/c8/8beac8cff0565cbd771d3aae90f82a7f.gif" width="250px">
 I enjoy solving puzzles and learning something new. 
 
 https://visitor-badge.glitch.me/badge?page_id=page.id
