@@ -2,6 +2,8 @@
 
 I enjoy solving puzzles and learning something new. 
 
+https://visitor-badge.glitch.me/badge?page_id=page.id
+
 <!--START_SECTION:waka-->
 
 ```text
