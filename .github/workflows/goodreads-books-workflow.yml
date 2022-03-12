@@ -16,4 +16,4 @@ jobs:
           # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
           goodreads_user_id: "22137741"
           shelf: "currently-reading"
-          template: "- [$title]($url) by $author ($published) <br />"
+          template: "- [$title]($url) by $author <br />"
