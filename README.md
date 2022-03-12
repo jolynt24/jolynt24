@@ -59,8 +59,7 @@ I enjoy building apps, data analysis, research, solving puzzles, watching anime,
 
 ---
 
-<details> 
-  <summary> <h3>This week I worked on...</h3> </summary>
+<details> <summary> <h3>This week I worked on...</h3> </summary>
   
   <!--START_SECTION:waka-->
   
@@ -72,9 +71,7 @@ I enjoy building apps, data analysis, research, solving puzzles, watching anime,
   <!--END_SECTION:waka-->
 
 </details>
-
-<details> 
-  <summary> <h3>I am reading/listening...</h3> </summary>
+<details> <summary> <h3>I am reading/listening...</h3> </summary>
   
 <!-- GOODREADS-LIST:START -->
 - [The 2-Hour Job Search: Using Technology to Get the Right Job Faster](https://www.goodreads.com/review/show/4602488026?utm_medium=api&utm_source=rss) by Steve  Dalton <br />
@@ -86,3 +83,7 @@ I enjoy building apps, data analysis, research, solving puzzles, watching anime,
 </details>
 
 <p align="center"><img src="https://64.media.tumblr.com/b86bc361c3eb7377a87cb6b460a7ce7e/tumblr_mld5zd7iGK1riizqco1_500.gifv" width="500px" alt="Thank you <3"></p>
+
+---
+
+###### Inspired from the profiles at [Awesome Github Readme by Abhishek Naidu](https://github.com/abhisheknaiidu/awesome-github-profile-readme#categories). Feel free to use my READMe to make your own. 
