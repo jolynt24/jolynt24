@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.pinimg.com/originals/8b/ea/c8/8beac8cff0565cbd771d3aae90f82a7f.gif" width="250px"></p>
+<p align="center"><img src="https://i.pinimg.com/originals/8b/ea/c8/8beac8cff0565cbd771d3aae90f82a7f.gif" width="250px" alt="Hi! Hi!"></p>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jolynt24.jolynt24&left_text=Hello%20Visitor)
 
@@ -13,6 +13,7 @@ I enjoy building apps, data analysis, research, solving puzzles, watching anime,
 👩🏻‍💻 I am  working on automating analysis <br>
 📚 I am learning more about Salesforce <br>
 📜 I also publish a [blog](https://www.chaoticsimplism.com) twice a month <br>
+💬 DM about data science, python, ML, anime and manga <br>
 🤭 Fun fact: I cannot pronounce "three cheese twists"
 
 ---
@@ -42,7 +43,6 @@ I enjoy building apps, data analysis, research, solving puzzles, watching anime,
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26px"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="26px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="26px"/>
-<br>
 
 ---
 
@@ -74,7 +74,7 @@ I enjoy building apps, data analysis, research, solving puzzles, watching anime,
 </details>
 
 <details> 
-  <summary> <h3>I am reading...</h3> </summary>
+  <summary> <h3>I am reading/listening...</h3> </summary>
   
 <!-- GOODREADS-LIST:START -->
 - [The 2-Hour Job Search: Using Technology to Get the Right Job Faster](https://www.goodreads.com/review/show/4602488026?utm_medium=api&utm_source=rss) by Steve  Dalton <br />
@@ -84,4 +84,5 @@ I enjoy building apps, data analysis, research, solving puzzles, watching anime,
 <!-- GOODREADS-LIST:END -->
 
 </details>
-  
+
+<p align="center"><img src="https://64.media.tumblr.com/b86bc361c3eb7377a87cb6b460a7ce7e/tumblr_mld5zd7iGK1riizqco1_500.gifv" width="500px" alt="Thank you <3"></p>
