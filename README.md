@@ -76,10 +76,10 @@ I enjoy building apps, data analysis, research, solving puzzles, watching anime,
 <details> 
   <summary> <h3>I sam reading...</h3> </summary>
   <!-- GOODREADS-LIST:START -->
-- [The 2-Hour Job Search: Using Technology to Get the Right Job Faster](https://www.goodreads.com/review/show/4602488026?utm_medium=api&utm_source=rss) by Steve  Dalton (⭐️4.21)
-- [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/review/show/4572172289?utm_medium=api&utm_source=rss) by Mark Manson (⭐️3.42)
-- [Rebel Ideas: The Power of Diverse Thinking](https://www.goodreads.com/review/show/4602481547?utm_medium=api&utm_source=rss) by Matthew Syed (⭐️4.29)
-- [Kafka on the Shore](https://www.goodreads.com/review/show/4572170909?utm_medium=api&utm_source=rss) by Haruki Murakami (⭐️4.15)
+- [The 2-Hour Job Search: Using Technology to Get the Right Job Faster](https://www.goodreads.com/review/show/4602488026?utm_medium=api&utm_source=rss) by Steve  Dalton () <br />
+- [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/review/show/4572172289?utm_medium=api&utm_source=rss) by Mark Manson () <br />
+- [Rebel Ideas: The Power of Diverse Thinking](https://www.goodreads.com/review/show/4602481547?utm_medium=api&utm_source=rss) by Matthew Syed () <br />
+- [Kafka on the Shore](https://www.goodreads.com/review/show/4572170909?utm_medium=api&utm_source=rss) by Haruki Murakami () <br />
 <!-- GOODREADS-LIST:END -->
 </details>
   
