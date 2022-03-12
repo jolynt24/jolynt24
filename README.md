@@ -82,7 +82,7 @@ I enjoy building apps, data analysis, research, solving puzzles, watching anime,
 
 </details>
 
-<p align="center"><img src="https://i.kym-cdn.com/photos/images/newsfeed/001/071/681/a44.gif" width="500px" alt="Thank you <3"></p>
+<p align="center"><img src="https://welcometobridgetown.files.wordpress.com/2019/07/naruto.gif" width="500px" alt="Thank you <3"></p>
 
 ---
 
