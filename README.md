@@ -62,13 +62,15 @@ I enjoy building apps, data analysis, research, solving puzzles, watching anime,
 <details> <summary> <h3>This week I worked on...</h3> </summary>
   
   <!--START_SECTION:waka-->
-  
-  ```text
-  Markdown   12 mins         █████████████████████████   100.00 %
-  YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-  ```
 
-  <!--END_SECTION:waka-->
+```text
+Python     1 hr 50 mins    ████████████████████░░░░░   80.07 %
+Markdown   26 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
+CSV        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
+<!--END_SECTION:waka-->
 
 </details>
 <details> <summary> <h3>I am reading/listening...</h3> </summary>
