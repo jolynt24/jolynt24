@@ -13,7 +13,7 @@ I enjoy building apps, data analysis, research, solving puzzles, watching anime,
 👩🏻‍💻 I am  working on automating analysis <br>
 📚 I am learning more about Salesforce <br>
 📜 I also publish a [blog](https://www.chaoticsimplism.com) twice a month <br>
-💬 DM about data science, python, ML, anime, manga and sustainability <br>
+💬 DM about software development, data science, python, ML, quantum computing, anime, manga and sustainability <br>
 🤭 Fun fact: I cannot pronounce "three cheese twists"
 
 ---
