@@ -64,8 +64,7 @@ I enjoy building apps, data analysis, research, solving puzzles, watching anime,
   <!--START_SECTION:waka-->
 
 ```text
-Python   2 hrs 51 mins   █████████████████████████   99.92 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Python   22 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
