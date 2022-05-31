@@ -73,8 +73,8 @@ No activity tracked
 <details> <summary> <h3>I am reading/listening...</h3> </summary>
   
 <!-- GOODREADS-LIST:START -->
-- [The 2-Hour Job Search: Using Technology to Get the Right Job Faster](https://www.goodreads.com/review/show/4602488026?utm_medium=api&utm_source=rss) by Steve  Dalton <br />
-- [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/review/show/4572172289?utm_medium=api&utm_source=rss) by Mark Manson <br />
+- [Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones](https://www.goodreads.com/review/show/4150011633?utm_medium=api&utm_source=rss) by James Clear <br />
+- [Men Without Women](https://www.goodreads.com/review/show/4755993970?utm_medium=api&utm_source=rss) by Haruki Murakami <br />
 - [Kafka on the Shore](https://www.goodreads.com/review/show/4572170909?utm_medium=api&utm_source=rss) by Haruki Murakami <br />
 <!-- GOODREADS-LIST:END -->
 
