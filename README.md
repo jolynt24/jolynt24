@@ -75,9 +75,8 @@ CSS    0 secs          ░░░░░░░░░░░░░░░░░░░
 <details> <summary> <h3>I am reading/listening...</h3> </summary>
   
 <!-- GOODREADS-LIST:START -->
-- [Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones](https://www.goodreads.com/review/show/4150011633?utm_medium=api&utm_source=rss) by James Clear <br />
-- [Men Without Women](https://www.goodreads.com/review/show/4755993970?utm_medium=api&utm_source=rss) by Haruki Murakami <br />
-- [Kafka on the Shore](https://www.goodreads.com/review/show/4572170909?utm_medium=api&utm_source=rss) by Haruki Murakami <br />
+- [The 5am Club](https://www.goodreads.com/review/show/4891438815?utm_medium=api&utm_source=rss) by Robin S. Sharma <br />
+- [Chatter: The Voice in Our Head and How to Harness It](https://www.goodreads.com/review/show/4891433259?utm_medium=api&utm_source=rss) by Ethan Kross <br />
 <!-- GOODREADS-LIST:END -->
 
 </details>
