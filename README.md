@@ -73,8 +73,8 @@ Markdown   4 mins          █████████████████�
 <details> <summary> <h3>I am reading/listening...</h3> </summary>
   
 <!-- GOODREADS-LIST:START -->
-- [The 5am Club](https://www.goodreads.com/review/show/4891438815?utm_medium=api&utm_source=rss) by Robin S. Sharma <br />
-- [Chatter: The Voice in Our Head and How to Harness It](https://www.goodreads.com/review/show/4891433259?utm_medium=api&utm_source=rss) by Ethan Kross <br />
+- [Mindset: The New Psychology of Success](https://www.goodreads.com/review/show/4891500570?utm_medium=api&utm_source=rss) by Carol S. Dweck <br />
+- [12 Rules for Life: An Antidote to Chaos](https://www.goodreads.com/review/show/2777894121?utm_medium=api&utm_source=rss) by Jordan B. Peterson <br />
 <!-- GOODREADS-LIST:END -->
 
 </details>
